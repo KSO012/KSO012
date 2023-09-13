@@ -23,6 +23,6 @@
 <br/>
 <br/>
 
-![KSO012's github stats](https://github-readme-stats.vercel.app/api?username=KSO012&show_icons=true&theme=graywhite)
+![KSO012's github stats](https://github-readme-stats.vercel.app/api?username=KSO012&count_private=true&show_icons=true&theme=graywhite)
 
 </div>
