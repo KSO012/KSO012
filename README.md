@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&text=KSO&color=timeGradient&animation=fadeIn&height=200)
 
-<!--
-**KSO012/KSO012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+<a href="https://kso323.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=tistory&logo=tistory&logoColor=white"/></a>
+
+<br/>
+<br/>
+<br/>
+:pencil: log
+
+<br/>
+<br/>
+
+![KSO012's github stats](https://github-readme-stats.vercel.app/api?username=KSO012&show_icons=true&theme=graywhite)
+
+</div>
