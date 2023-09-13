@@ -13,7 +13,7 @@
 
 <br/>
 <br/>
-<a href="https://kso323.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=tistory&logo=tistory&logoColor=white"/></a>
+<a href="https://kso323.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
 <br/>
 <br/>
