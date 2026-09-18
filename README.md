@@ -20,6 +20,8 @@
 <br/>
 :pencil: log
 
+<a href="https://kso012.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog"/></a>
+
 <br/>
 <br/>
 
