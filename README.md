@@ -13,14 +13,10 @@
 
 <br/>
 <br/>
-<a href="https://kso323.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-
-<br/>
-<br/>
 <br/>
 :pencil: log
-
-<a href="https://kso012.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog"/></a>
+<a href="https://kso323.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<a href="https://kso012.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-76819A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Research%20Portfolio"/></a>
 
 <br/>
 <br/>
