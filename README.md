@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Seon Kim&color=timeGradient&animation=fadeIn&height=200)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Seon%20Kim&color=timeGradient&animation=fadeIn&height=200)
 
 <br/>
 <br/>
