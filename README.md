@@ -16,11 +16,12 @@
 <br/>
 :pencil: log
 <br/>
+<br/>
 
 <a href="https://kso323.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<br/>
 <a href="https://kso012.github.io/" target="_blank"><img src="https://img.shields.io/badge/Research%20Portfolio-76819A?style=for-the-badge" alt="Research Portfolio"></a>
 
-<br/>
 <br/>
 
 </div>
